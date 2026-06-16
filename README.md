@@ -39,7 +39,6 @@ Built using GitHub Webhooks, Node.js, Ollama, and AI-powered code analysis.
 ## 🛠️ Tech Stack
 
 * Node.js
-* Express.js
 * GitHub Webhooks
 * GitHub REST API
 * Ollama
