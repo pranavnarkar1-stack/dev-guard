@@ -63,11 +63,8 @@ Built using GitHub Webhooks, Node.js, Ollama, and AI-powered code analysis.
 
 ### Input
 
-db_password = "supersecret123"
-api_key = "sk-abc123realkeyvalue"
-query = "SELECT * FROM users WHERE id = " + user_input
-print("Logging in with password:", db_password)
-password = "admin123"
+<img width="437" height="113" alt="image" src="https://github.com/user-attachments/assets/2dbbc855-85c4-41d4-8a6f-34f644be4ee7" />
+
 
 ### Dev-Guard Response
 
