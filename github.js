@@ -33,3 +33,4 @@ async function setCommitStatus(owner, repo, sha, state, description) {
 }
 
 module.exports = { getPRDiff, postComment, setCommitStatus };
+
