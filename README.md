@@ -32,6 +32,10 @@ Built using GitHub Webhooks, Node.js, Ollama, and AI-powered code analysis.
 
 ---
 
+<img width="763" height="252" alt="image" src="https://github.com/user-attachments/assets/fe82e182-937d-475a-a574-fca4dd885ffe" />
+
+---
+
 ## 🛠️ Tech Stack
 
 * Node.js
