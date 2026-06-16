@@ -32,7 +32,9 @@ Built using GitHub Webhooks, Node.js, Ollama, and AI-powered code analysis.
 
 ---
 
-<img width="763" height="252" alt="image" src="https://github.com/user-attachments/assets/fe82e182-937d-475a-a574-fca4dd885ffe" />
+## 📁 Project Structure
+
+<img width="172" height="231" alt="image" src="https://github.com/user-attachments/assets/ba8de8d8-b264-4e29-8b96-05e8b57e55fd" />
 
 ---
 
