@@ -28,19 +28,7 @@ Built using GitHub Webhooks, Node.js, Ollama, and AI-powered code analysis.
 
 ## 🏗️ Architecture
 
-GitHub Push / Pull Request
-↓
-GitHub Webhook
-↓
-Dev-Guard Server (Node.js)
-↓
-GitHub API (Fetch Diff)
-↓
-Ollama (Local LLM)
-↓
-AI Security Review
-↓
-GitHub PR Comment
+<img width="195" height="308" alt="image" src="https://github.com/user-attachments/assets/6d09c03c-2566-49dd-ad67-c8f78eacbd2b" />
 
 ---
 
