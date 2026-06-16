@@ -44,7 +44,6 @@ Built using GitHub Webhooks, Node.js, Ollama, and AI-powered code analysis.
 * GitHub REST API
 * Ollama
 * ngrok
-* Local AI Models
 
 ---
 
